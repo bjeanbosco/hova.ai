@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hova.ai/static/css/main.e8d35e31.css",
-    "main.js": "/hova.ai/static/js/main.778a844a.js",
+    "main.js": "/hova.ai/static/js/main.9d5f2e0c.js",
     "static/media/video.mp4": "/hova.ai/static/media/video.2bfc736e625aac7739d5.mp4",
     "static/media/More.png": "/hova.ai/static/media/More.d5379d388a2bf1d2b69a.png",
     "static/media/phone.png": "/hova.ai/static/media/phone.3c738591e0c7b2def5fb.png",
@@ -11,10 +11,10 @@
     "static/media/project.png": "/hova.ai/static/media/project.b359e359145cde5f34df.png",
     "index.html": "/hova.ai/index.html",
     "main.e8d35e31.css.map": "/hova.ai/static/css/main.e8d35e31.css.map",
-    "main.778a844a.js.map": "/hova.ai/static/js/main.778a844a.js.map"
+    "main.9d5f2e0c.js.map": "/hova.ai/static/js/main.9d5f2e0c.js.map"
   },
   "entrypoints": [
     "static/css/main.e8d35e31.css",
-    "static/js/main.778a844a.js"
+    "static/js/main.9d5f2e0c.js"
   ]
 }
